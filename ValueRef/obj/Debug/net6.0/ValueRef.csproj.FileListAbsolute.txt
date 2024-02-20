@@ -1,0 +1,15 @@
+C:\Users\Saleem\source\repos\ValueRef\bin\Debug\net6.0\ValueRef.exe
+C:\Users\Saleem\source\repos\ValueRef\bin\Debug\net6.0\ValueRef.deps.json
+C:\Users\Saleem\source\repos\ValueRef\bin\Debug\net6.0\ValueRef.runtimeconfig.json
+C:\Users\Saleem\source\repos\ValueRef\bin\Debug\net6.0\ValueRef.dll
+C:\Users\Saleem\source\repos\ValueRef\bin\Debug\net6.0\ValueRef.pdb
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.csproj.AssemblyReference.cache
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.AssemblyInfoInputs.cache
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.AssemblyInfo.cs
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.csproj.CoreCompileInputs.cache
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.dll
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\refint\ValueRef.dll
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.pdb
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ValueRef.genruntimeconfig.cache
+C:\Users\Saleem\source\repos\ValueRef\obj\Debug\net6.0\ref\ValueRef.dll

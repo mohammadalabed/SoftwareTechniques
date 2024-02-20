@@ -1,0 +1,15 @@
+C:\Users\Saleem\source\repos\language tools\bin\Debug\net6.0\language tools.exe
+C:\Users\Saleem\source\repos\language tools\bin\Debug\net6.0\language tools.deps.json
+C:\Users\Saleem\source\repos\language tools\bin\Debug\net6.0\language tools.runtimeconfig.json
+C:\Users\Saleem\source\repos\language tools\bin\Debug\net6.0\language tools.dll
+C:\Users\Saleem\source\repos\language tools\bin\Debug\net6.0\language tools.pdb
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.csproj.AssemblyReference.cache
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.AssemblyInfoInputs.cache
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.AssemblyInfo.cs
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.csproj.CoreCompileInputs.cache
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.dll
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\refint\language tools.dll
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.pdb
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\language tools.genruntimeconfig.cache
+C:\Users\Saleem\source\repos\language tools\obj\Debug\net6.0\ref\language tools.dll
