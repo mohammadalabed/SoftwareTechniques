@@ -8,6 +8,7 @@
     }
 }
 public delegate void LogHandler(string msg);
+[Serializable]
 class FileLogListener
 { // FileStream tag.
   public void WriteToFile(string msg) 

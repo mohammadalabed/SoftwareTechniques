@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saleem\\source\\repos\\Delegates\\Delegates.csproj": {}
+    "C:\\Users\\Saleem\\source\\repos\\language tools\\Delegates\\Delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saleem\\source\\repos\\Delegates\\Delegates.csproj": {
+    "C:\\Users\\Saleem\\source\\repos\\language tools\\Delegates\\Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saleem\\source\\repos\\Delegates\\Delegates.csproj",
+        "projectUniqueName": "C:\\Users\\Saleem\\source\\repos\\language tools\\Delegates\\Delegates.csproj",
         "projectName": "Delegates",
-        "projectPath": "C:\\Users\\Saleem\\source\\repos\\Delegates\\Delegates.csproj",
+        "projectPath": "C:\\Users\\Saleem\\source\\repos\\language tools\\Delegates\\Delegates.csproj",
         "packagesPath": "C:\\Users\\Saleem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saleem\\source\\repos\\Delegates\\obj\\",
+        "outputPath": "C:\\Users\\Saleem\\source\\repos\\language tools\\Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
